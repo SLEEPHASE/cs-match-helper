@@ -1,0 +1,4142 @@
+[
+  {
+    "text": "爆头率",
+    "count": 8,
+    "offset": 246312
+  },
+  {
+    "text": "玩家",
+    "count": 8,
+    "offset": 175213
+  },
+  {
+    "text": "道具",
+    "count": 7,
+    "offset": 163760
+  },
+  {
+    "text": "胜率",
+    "count": 7,
+    "offset": 247207
+  },
+  {
+    "text": "用户",
+    "count": 7,
+    "offset": 297581
+  },
+  {
+    "text": "最新 10 个有效值的平均值",
+    "count": 6,
+    "offset": 438367
+  },
+  {
+    "text": "突破",
+    "count": 6,
+    "offset": 163750
+  },
+  {
+    "text": "连接",
+    "count": 6,
+    "offset": 380583
+  },
+  {
+    "text": "查看",
+    "count": 6,
+    "offset": 493047
+  },
+  {
+    "text": "未知地图",
+    "count": 5,
+    "offset": 366467
+  },
+  {
+    "text": "已复制",
+    "count": 5,
+    "offset": 143413
+  },
+  {
+    "text": "火力",
+    "count": 5,
+    "offset": 163701
+  },
+  {
+    "text": "残局",
+    "count": 5,
+    "offset": 163771
+  },
+  {
+    "text": "采集",
+    "count": 5,
+    "offset": 378632
+  },
+  {
+    "text": "完美平台账号",
+    "count": 4,
+    "offset": 718318
+  },
+  {
+    "text": "近期胜率",
+    "count": 4,
+    "offset": 247290
+  },
+  {
+    "text": "的评论",
+    "count": 4,
+    "offset": 526538
+  },
+  {
+    "text": "枪法",
+    "count": 4,
+    "offset": 163719
+  },
+  {
+    "text": "狙击",
+    "count": 4,
+    "offset": 163783
+  },
+  {
+    "text": "球员",
+    "count": 4,
+    "offset": 235105
+  },
+  {
+    "text": "我方",
+    "count": 4,
+    "offset": 245411
+  },
+  {
+    "text": "对方",
+    "count": 4,
+    "offset": 245416
+  },
+  {
+    "text": "地图",
+    "count": 4,
+    "offset": 272409
+  },
+  {
+    "text": "重试",
+    "count": 4,
+    "offset": 474681
+  },
+  {
+    "text": "最高",
+    "count": 4,
+    "offset": 560305
+  },
+  {
+    "text": "最低",
+    "count": 4,
+    "offset": 560427
+  },
+  {
+    "text": "取消",
+    "count": 4,
+    "offset": 693339
+  },
+  {
+    "text": "平均 Rating",
+    "count": 3,
+    "offset": 253420
+  },
+  {
+    "text": "平均 ADR",
+    "count": 3,
+    "offset": 253522
+  },
+  {
+    "text": "等待对局数据",
+    "count": 3,
+    "offset": 426859
+  },
+  {
+    "text": "为基本线；",
+    "count": 3,
+    "offset": 241538
+  },
+  {
+    "text": "急停成功率",
+    "count": 3,
+    "offset": 246796
+  },
+  {
+    "text": "禁止使用",
+    "count": 3,
+    "offset": 235100
+  },
+  {
+    "text": "平均 K",
+    "count": 3,
+    "offset": 253584
+  },
+  {
+    "text": "数据覆盖",
+    "count": 3,
+    "offset": 258522
+  },
+  {
+    "text": "未知玩家",
+    "count": 3,
+    "offset": 303662
+  },
+  {
+    "text": "加载更多",
+    "count": 3,
+    "offset": 305253
+  },
+  {
+    "text": "赛季胜率",
+    "count": 3,
+    "offset": 439245
+  },
+  {
+    "text": "自定义列",
+    "count": 3,
+    "offset": 537213
+  },
+  {
+    "text": "分析中",
+    "count": 3,
+    "offset": 581466
+  },
+  {
+    "text": "数据",
+    "count": 3,
+    "offset": 188319
+  },
+  {
+    "text": "占比",
+    "count": 3,
+    "offset": 252314
+  },
+  {
+    "text": "首杀",
+    "count": 3,
+    "offset": 252380
+  },
+  {
+    "text": "图片",
+    "count": 3,
+    "offset": 299299
+  },
+  {
+    "text": "失败",
+    "count": 3,
+    "offset": 581734
+  },
+  {
+    "text": "支持",
+    "count": 3,
+    "offset": 760519
+  },
+  {
+    "text": "低于 2400 分时显示当前分数；进入 S 段后显示段位图标和当前赛季星数",
+    "count": 2,
+    "offset": 436874
+  },
+  {
+    "text": "熟练度由当前地图场次与赛季占比计算；达到强图标准时合并显示在熟练度标签中",
+    "count": 2,
+    "offset": 437939
+  },
+  {
+    "text": "来自全赛季最高分与最高 S 星，星数按普通、黄金、钻石、魔王 S 显示",
+    "count": 2,
+    "offset": 437028
+  },
+  {
+    "text": "显示残局获胜总数，并区分 1v1 与难度更高的 1v2 以上残局",
+    "count": 2,
+    "offset": 440767
+  },
+  {
+    "text": "最新有效 ELO 与近 10 条中最早有效 ELO 的差值",
+    "count": 2,
+    "offset": 440236
+  },
+  {
+    "text": "仅显示击杀最多的武器，重点展示平均击杀耗时与爆头率",
+    "count": 2,
+    "offset": 438098
+  },
+  {
+    "text": "检测到 5E 可能已更新并重启，正在重新连接…",
+    "count": 2,
+    "offset": 380857
+  },
+  {
+    "text": "枪法很稳，道具也舍得丢，适合当突破手。",
+    "count": 2,
+    "offset": 303896
+  },
+  {
+    "text": "更新后调试连接已断开，请重新启动 5E",
+    "count": 2,
+    "offset": 381285
+  },
+  {
+    "text": "官方 API，含模型选择与思考模式",
+    "count": 2,
+    "offset": 285613
+  },
+  {
+    "text": "三杀、四杀和五杀次数；悬停可看二杀",
+    "count": 2,
+    "offset": 440485
+  },
+  {
+    "text": "当前赛季场次 MVP（match",
+    "count": 2,
+    "offset": 440621
+  },
+  {
+    "text": "垂直协同、外场控制、道具与残局",
+    "count": 2,
+    "offset": 241248
+  },
+  {
+    "text": "当前地图胜率（map-ext）",
+    "count": 2,
+    "offset": 443728
+  },
+  {
+    "text": "残局处理能力强，适合守点位。",
+    "count": 2,
+    "offset": 304389
+  },
+  {
+    "text": "偶尔上头，但整体水平在线。",
+    "count": 2,
+    "offset": 304279
+  },
+  {
+    "text": "取得首杀后赢下该回合的比例",
+    "count": 2,
+    "offset": 438513
+  },
+  {
+    "text": "本场 ELO 变化（sts",
+    "count": 2,
+    "offset": 443901
+  },
+  {
+    "text": "有效反应样本的平均毫秒数",
+    "count": 2,
+    "offset": 437808
+  },
+  {
+    "text": "不是单独的 1v1 胜率",
+    "count": 2,
+    "offset": 439499
+  },
+  {
+    "text": "评论加载超时，请重试",
+    "count": 2,
+    "offset": 293849
+  },
+  {
+    "text": "全部残局胜率（1vx",
+    "count": 2,
+    "offset": 439482
+  },
+  {
+    "text": "匹配前在同一组队房间",
+    "count": 2,
+    "offset": 489842
+  },
+  {
+    "text": "批量拉取无有效数据",
+    "count": 2,
+    "offset": 180151
+  },
+  {
+    "text": "服务器响应格式错误",
+    "count": 2,
+    "offset": 294399
+  },
+  {
+    "text": "副标题显示样本局数",
+    "count": 2,
+    "offset": 439657
+  },
+  {
+    "text": "多人地图样本偏少",
+    "count": 2,
+    "offset": 168337
+  },
+  {
+    "text": "历史 AI 分析",
+    "count": 2,
+    "offset": 267212
+  },
+  {
+    "text": "启用 AI 分析",
+    "count": 2,
+    "offset": 474867
+  },
+  {
+    "text": "队伍平均 ELO",
+    "count": 2,
+    "offset": 560198
+  },
+  {
+    "text": "更准确，较慢）",
+    "count": 2,
+    "offset": 286171
+  },
+  {
+    "text": "客户端身份无效",
+    "count": 2,
+    "offset": 294307
+  },
+  {
+    "text": "近 5 场 W",
+    "count": 2,
+    "offset": 441846
+  },
+  {
+    "text": "对局 HUD",
+    "count": 2,
+    "offset": 233055
+  },
+  {
+    "text": "为参考分界；",
+    "count": 2,
+    "offset": 240409
+  },
+  {
+    "text": "平均 ELO",
+    "count": 2,
+    "offset": 253352
+  },
+  {
+    "text": "平均 RWS",
+    "count": 2,
+    "offset": 253643
+  },
+  {
+    "text": "推荐，快速）",
+    "count": 2,
+    "offset": 286114
+  },
+  {
+    "text": "当前赛季WE",
+    "count": 2,
+    "offset": 438238
+  },
+  {
+    "text": "或赛季 Lv",
+    "count": 2,
+    "offset": 443808
+  },
+  {
+    "text": "综合对比分析",
+    "count": 2,
+    "offset": 560703
+  },
+  {
+    "text": "缺少 Key",
+    "count": 2,
+    "offset": 581786
+  },
+  {
+    "text": "取消退出登录",
+    "count": 2,
+    "offset": 711200
+  },
+  {
+    "text": "稳定高伤，",
+    "count": 2,
+    "offset": 240580
+  },
+  {
+    "text": "首杀转化率",
+    "count": 2,
+    "offset": 246536
+  },
+  {
+    "text": "补枪成功率",
+    "count": 2,
+    "offset": 247032
+  },
+  {
+    "text": "自定义模型",
+    "count": 2,
+    "offset": 285691
+  },
+  {
+    "text": "死亡游乐园",
+    "count": 2,
+    "offset": 364030
+  },
+  {
+    "text": "列车停放站",
+    "count": 2,
+    "offset": 364214
+  },
+  {
+    "text": "意大利小镇",
+    "count": 2,
+    "offset": 364343
+  },
+  {
+    "text": "地图熟练度",
+    "count": 2,
+    "offset": 437919
+  },
+  {
+    "text": "首杀成功率",
+    "count": 2,
+    "offset": 445573
+  },
+  {
+    "text": "已确认组排",
+    "count": 2,
+    "offset": 489175
+  },
+  {
+    "text": "历史常同队",
+    "count": 2,
+    "offset": 489206
+  },
+  {
+    "text": "已自动保存",
+    "count": 2,
+    "offset": 612350
+  },
+  {
+    "text": "队伍 A",
+    "count": 2,
+    "offset": 167056
+  },
+  {
+    "text": "队伍 B",
+    "count": 2,
+    "offset": 167071
+  },
+  {
+    "text": "均值较高",
+    "count": 2,
+    "offset": 167336
+  },
+  {
+    "text": "内容为空",
+    "count": 2,
+    "offset": 189623
+  },
+  {
+    "text": "需为对象",
+    "count": 2,
+    "offset": 189699
+  },
+  {
+    "text": "解析失败",
+    "count": 2,
+    "offset": 190083
+  },
+  {
+    "text": "对战平台",
+    "count": 2,
+    "offset": 195607
+  },
+  {
+    "text": "明显强；",
+    "count": 2,
+    "offset": 240432
+  },
+  {
+    "text": "残局胜率",
+    "count": 2,
+    "offset": 246711
+  },
+  {
+    "text": "反应时间",
+    "count": 2,
+    "offset": 246875
+  },
+  {
+    "text": "完美平台",
+    "count": 2,
+    "offset": 270248
+  },
+  {
+    "text": "完美用户",
+    "count": 2,
+    "offset": 299421
+  },
+  {
+    "text": "荒漠迷城",
+    "count": 2,
+    "offset": 363892
+  },
+  {
+    "text": "炼狱小镇",
+    "count": 2,
+    "offset": 363940
+  },
+  {
+    "text": "核子危机",
+    "count": 2,
+    "offset": 363979
+  },
+  {
+    "text": "殒命大厦",
+    "count": 2,
+    "offset": 364079
+  },
+  {
+    "text": "远古遗迹",
+    "count": 2,
+    "offset": 364127
+  },
+  {
+    "text": "阿努比斯",
+    "count": 2,
+    "offset": 364172
+  },
+  {
+    "text": "死城之谜",
+    "count": 2,
+    "offset": 364257
+  },
+  {
+    "text": "地图补全",
+    "count": 2,
+    "offset": 377830
+  },
+  {
+    "text": "势均力敌",
+    "count": 2,
+    "offset": 430882
+  },
+  {
+    "text": "难以判断",
+    "count": 2,
+    "offset": 431025
+  },
+  {
+    "text": "赛季场次",
+    "count": 2,
+    "offset": 439028
+  },
+  {
+    "text": "地图胜率",
+    "count": 2,
+    "offset": 445148
+  },
+  {
+    "text": "略占优势",
+    "count": 2,
+    "offset": 460365
+  },
+  {
+    "text": "绿色玩家",
+    "count": 2,
+    "offset": 477034
+  },
+  {
+    "text": "疑似开黑",
+    "count": 2,
+    "offset": 489238
+  },
+  {
+    "text": "更新失败",
+    "count": 2,
+    "offset": 581672
+  },
+  {
+    "text": "匹配助手",
+    "count": 2,
+    "offset": 603984
+  },
+  {
+    "text": "服务模式",
+    "count": 2,
+    "offset": 619589
+  },
+  {
+    "text": "插入表情",
+    "count": 2,
+    "offset": 678524
+  },
+  {
+    "text": "评论图片",
+    "count": 2,
+    "offset": 680076
+  },
+  {
+    "text": "关闭预览",
+    "count": 2,
+    "offset": 681587
+  },
+  {
+    "text": "用户头像",
+    "count": 2,
+    "offset": 691926
+  },
+  {
+    "text": "加载中…",
+    "count": 2,
+    "offset": 699866
+  },
+  {
+    "text": "网页登录",
+    "count": 2,
+    "offset": 716968
+  },
+  {
+    "text": "偏强，",
+    "count": 2,
+    "offset": 240422
+  },
+  {
+    "text": "办公室",
+    "count": 2,
+    "offset": 364302
+  },
+  {
+    "text": "事务所",
+    "count": 2,
+    "offset": 364389
+  },
+  {
+    "text": "最高分",
+    "count": 2,
+    "offset": 437010
+  },
+  {
+    "text": "影响度",
+    "count": 2,
+    "offset": 467493
+  },
+  {
+    "text": "已接受",
+    "count": 2,
+    "offset": 526791
+  },
+  {
+    "text": "地图胜",
+    "count": 2,
+    "offset": 548508
+  },
+  {
+    "text": "近期胜",
+    "count": 2,
+    "offset": 548693
+  },
+  {
+    "text": "校准中",
+    "count": 2,
+    "offset": 581407
+  },
+  {
+    "text": "条回复",
+    "count": 2,
+    "offset": 698695
+  },
+  {
+    "text": "加载中",
+    "count": 2,
+    "offset": 709075
+  },
+  {
+    "text": "不支持",
+    "count": 2,
+    "offset": 760524
+  },
+  {
+    "text": "补枪",
+    "count": 2,
+    "offset": 163739
+  },
+  {
+    "text": "防守",
+    "count": 2,
+    "offset": 163876
+  },
+  {
+    "text": "队伍",
+    "count": 2,
+    "offset": 168854
+  },
+  {
+    "text": "小淳",
+    "count": 2,
+    "offset": 231631
+  },
+  {
+    "text": "赛季",
+    "count": 2,
+    "offset": 240951
+  },
+  {
+    "text": "击杀",
+    "count": 2,
+    "offset": 252154
+  },
+  {
+    "text": "预设",
+    "count": 2,
+    "offset": 285596
+  },
+  {
+    "text": "兼容",
+    "count": 2,
+    "offset": 285674
+  },
+  {
+    "text": "这是",
+    "count": 2,
+    "offset": 305250
+  },
+  {
+    "text": "完美",
+    "count": 2,
+    "offset": 366363
+  },
+  {
+    "text": "调试",
+    "count": 2,
+    "offset": 374266
+  },
+  {
+    "text": "关闭",
+    "count": 2,
+    "offset": 374352
+  },
+  {
+    "text": "启动",
+    "count": 2,
+    "offset": 383259
+  },
+  {
+    "text": "状态",
+    "count": 2,
+    "offset": 384067
+  },
+  {
+    "text": "变化",
+    "count": 2,
+    "offset": 446221
+  },
+  {
+    "text": "强点",
+    "count": 2,
+    "offset": 461067
+  },
+  {
+    "text": "支点",
+    "count": 2,
+    "offset": 461096
+  },
+  {
+    "text": "专长",
+    "count": 2,
+    "offset": 461130
+  },
+  {
+    "text": "短板",
+    "count": 2,
+    "offset": 461166
+  },
+  {
+    "text": "变量",
+    "count": 2,
+    "offset": 461201
+  },
+  {
+    "text": "专精",
+    "count": 2,
+    "offset": 495498
+  },
+  {
+    "text": "熟练",
+    "count": 2,
+    "offset": 495533
+  },
+  {
+    "text": "爆头",
+    "count": 2,
+    "offset": 503091
+  },
+  {
+    "text": "分析",
+    "count": 2,
+    "offset": 590909
+  },
+  {
+    "text": "反馈",
+    "count": 2,
+    "offset": 606525
+  },
+  {
+    "text": "刚刚",
+    "count": 2,
+    "offset": 675271
+  },
+  {
+    "text": "回复",
+    "count": 2,
+    "offset": 696292
+  },
+  {
+    "text": "复制",
+    "count": 2,
+    "offset": 707987
+  },
+  {
+    "text": "接口签名验证失败（可能因 5E 客户端更新导致密钥失效），赛季 Rating 无法获取。请将此情况反馈给开发者更新签名配置",
+    "count": 1,
+    "offset": 180075
+  },
+  {
+    "text": "输出语言（硬性，面向中国玩家）：\n- 所有展示文案使用简体中文，表达简洁、具体，像赛前队友交流\n- headline、de",
+    "count": 1,
+    "offset": 234829
+  },
+  {
+    "text": "严格规则：\n- 只输出 JSON，不要 Markdown\n- 只能引用 evidenceCatalog 中存在的 evid",
+    "count": 1,
+    "offset": 236680
+  },
+  {
+    "text": "已由客户端按全场中位数、队内中位数和指标方向计算；反应时间等越低越好的指标已经反向处理\n- playerSignals 只",
+    "count": 1,
+    "offset": 236806
+  },
+  {
+    "text": "能使用 allowedPlayers 中的 SteamID；最多 4 人、每队最多 2 人\n- 只要某名玩家有至少两项不同",
+    "count": 1,
+    "offset": 236867
+  },
+  {
+    "text": "维度、中高可靠度且 direction 为 positive 或 negative 的证据，就必须输出玩家信号；优先覆盖双",
+    "count": 1,
+    "offset": 236928
+  },
+  {
+    "text": "方各至少 1 人\n- 仅当双方都没有足够正负对比证据时，playerSignals 才允许为空；不要因为谨慎而整表留空\n-",
+    "count": 1,
+    "offset": 236989
+  },
+  {
+    "text": "的摘要只能作补充，不能单独充当强弱\n- anchor 至少引用两项 opening、utility、clutch 或 fo",
+    "count": 1,
+    "offset": 237152
+  },
+  {
+    "text": "的 positive 证据\n- specialist 必须引用充足地图样本或明确武器专项证据\n- volatile 必须同",
+    "count": 1,
+    "offset": 237216
+  },
+  {
+    "text": "时引用中高可靠度的 positive 与 negative 证据；低样本不能单独成立\n- watch 只用于客户端转换旧历",
+    "count": 1,
+    "offset": 237277
+  },
+  {
+    "text": "至少引用 1 个有效证据 ID\n- 不要把所有值得关注的玩家归为同一类型；必须明确区分强项、支点、专长、短板和波动\n- 低",
+    "count": 1,
+    "offset": 237399
+  },
+  {
+    "text": "样本只能写入 uncertainties，不能单独作为负面玩家信号\n- 每队最多 2 条取胜条件和 2 条隐患；decis",
+    "count": 1,
+    "offset": 237460
+  },
+  {
+    "text": "最多 4 条；uncertainties 最多 4 条\n- modelWinProbability 两项必须可归一化；不要",
+    "count": 1,
+    "offset": 237532
+  },
+  {
+    "text": "自行按覆盖率收敛，客户端会做最终校准\n- confidence 为 0-100 的模型自评数据把握度\n- perspect",
+    "count": 1,
+    "offset": 237593
+  },
+  {
+    "text": "对方”，客户端会动态映射\n- headline 不超过 32 个汉字；title 不超过 12 个汉字；summary、取",
+    "count": 1,
+    "offset": 237733
+  },
+  {
+    "text": "胜条件和隐患不超过 50 个汉字；uncertainties 单项不超过 40 个汉字\n\n按以下顺序输出，以便先流式显示结",
+    "count": 1,
+    "offset": 237794
+  },
+  {
+    "text": "明显低迷\n- 近期 Rating：仅比较最近 10 个有效值与赛季 Rating 的差异，不假设历史数组等长\n- RWS：",
+    "count": 1,
+    "offset": 240451
+  },
+  {
+    "text": "为估算值时降权）\n- 当前地图：地图 Rating、ADR、胜率都需结合场次；相对玩家赛季均值的偏差优先于绝对值\n- 地图",
+    "count": 1,
+    "offset": 240646
+  },
+  {
+    "text": "只表示平台风格标签，不与旧七维雷达互换，也不直接换算胜率\n- 组排：同 troopTeamId 可能提升协同，但若组排成员",
+    "count": 1,
+    "offset": 241062
+  },
+  {
+    "text": "指标基准线（需结合赛季场次、地图样本量综合判断）：\n- ELO（score）：优先排位当前赛季 ELO；分差 50 以内接",
+    "count": 1,
+    "offset": 241424
+  },
+  {
+    "text": "局必须降权\n- 近期 ELO 变化（recentRatings）：连续正增长代表状态上升，连续负 growth 代表下滑；",
+    "count": 1,
+    "offset": 241762
+  },
+  {
+    "text": "输出必须是严格 JSON，不要 Markdown，不要代码块。\n不得删除或否定上一轮非地图结论；只能追加地图相关依据，并允",
+    "count": 1,
+    "offset": 269978
+  },
+  {
+    "text": "必须等于 100（若输出概率）。\ndecisiveFactorsAdd 的 dimension 只能是 map 或 for",
+    "count": 1,
+    "offset": 270106
+  },
+  {
+    "text": "你是 CS2 5E 对战平台赛前分析助手。你只能基于输入数据做概率判断，不要编造缺失字段。\n所有 player 在输出文案",
+    "count": 1,
+    "offset": 274853
+  },
+  {
+    "text": "补枪、道具、狙击、残局、近期 ELO 状态与当前地图适配度。\n输出必须是严格 JSON，不要 Markdown，不要代码块",
+    "count": 1,
+    "offset": 274955
+  },
+  {
+    "text": "必须等于 100。\nconfidence 为 0-100 整数，表示你对本次判断的数据把握度（不是胜率），样本不足时必须降",
+    "count": 1,
+    "offset": 275063
+  },
+  {
+    "text": "表示本局地图尚未确认：禁止输出 map 维度 decisiveFactors，禁止臆造地图适配或报点\n- mapStatu",
+    "count": 1,
+    "offset": 275958
+  },
+  {
+    "text": "时方可结合 mapFitHint 与 mapWinRate 做地图适配判断\n\n判断原则：\n- ELO 差距是基础强度参考，",
+    "count": 1,
+    "offset": 276079
+  },
+  {
+    "text": "波动与连胜连败用于状态判断，但不要把单场大加减分简单等同强弱\n- 无 match detail 时地图与分队可能为推断，必",
+    "count": 1,
+    "offset": 276201
+  },
+  {
+    "text": "近期状态的有效证据\n- playerSignals 必须区分正负方向并通过本地门槛；有足够正负证据时不要留空；低样本本身只",
+    "count": 1,
+    "offset": 276430
+  },
+  {
+    "text": "你是 CS2 完美世界匹配赛前分析助手。只能基于输入数据做概率判断，不得编造缺失字段。\n输出必须是严格 JSON，不要 M",
+    "count": 1,
+    "offset": 281976
+  },
+  {
+    "text": "必须等于 100，confidence 为 0-100 的数据把握度。\n以双方和队内相对差异为主，绝不能把任何单项绝对值直",
+    "count": 1,
+    "offset": 282086
+  },
+  {
+    "text": "倾向与近期状态。\nweaponSpecialty 只能推断 AWP 或步枪专项倾向，不能单独判定玩家整体强弱。\nmapWi",
+    "count": 1,
+    "offset": 282220
+  },
+  {
+    "text": "必须结合当前地图样本量解释，不代表跨赛季经验；低于 4 场只能进入 uncertainties。\nseasonWe 来自当",
+    "count": 1,
+    "offset": 282287
+  },
+  {
+    "text": "和近期胜率只能用于判断近期状态，并应与赛季值、样本量和对手差异共同解释。\ncurrentRank 是当前赛季段位；peak",
+    "count": 1,
+    "offset": 282381
+  },
+  {
+    "text": "是历史最高段位，只能作为长期上限和经验证据，绝不能把历史最高分或历史最高 S 星当作当前水平。\nS 段使用星数区分：0-9",
+    "count": 1,
+    "offset": 282447
+  },
+  {
+    "text": "或当前地图有效样本普遍不足时，必须降低 confidence，并写入 uncertainties。\nplayerSigna",
+    "count": 1,
+    "offset": 282634
+  },
+  {
+    "text": "必须标出真正影响本局判断的玩家，明确区分强点、支点、专长、短板和变量；有正负对比证据时不要留空，也不要为凑数逐人输出。\n不",
+    "count": 1,
+    "offset": 282698
+  },
+  {
+    "text": "更新内容\n\n- 新增玩家评论功能：对局页可查看与发表评论，设置页可管理我的评论\n- 支持评论热评排序、Emoji 表情插入",
+    "count": 1,
+    "offset": 386757
+  },
+  {
+    "text": "与 30 天编辑限制\n- 新增 5E 平台数据采集、队伍对比与独立 AI 分析\n- 优化主界面与设置页切换动画及评论列表加",
+    "count": 1,
+    "offset": 386818
+  },
+  {
+    "text": "需兼容 OpenAI Chat Completions 接口、Bearer Token 和 SSE 流式。适用于 Open",
+    "count": 1,
+    "offset": 623659
+  },
+  {
+    "text": "史，新模型禁止输出\n- 每个 decisiveFactor、playerSignal 和 teamPlans claim",
+    "count": 1,
+    "offset": 237338
+  },
+  {
+    "text": "存在时，selfSide 是当前登录玩家所在队；判断时按我方视角组织重点，但所有 JSON 枚举和展示文案仍使用 A 队",
+    "count": 1,
+    "offset": 237658
+  },
+  {
+    "text": "基础上做地图维度的增量补充。\n你只能基于输入数据做概率判断，不要编造缺失字段。\n所有 player 在输出文案中必须称为",
+    "count": 1,
+    "offset": 269903
+  },
+  {
+    "text": "只能输出 specialist 或 volatile，且必须引用当前地图证据；不得覆盖基础报告中的非地图信号。\n禁止输出",
+    "count": 1,
+    "offset": 270187
+  },
+  {
+    "text": "不能单独决定胜率\n- 地图历史样本充足时提升地图适配权重；样本低时必须写入 uncertainties\n- 近期 ELO",
+    "count": 1,
+    "offset": 276140
+  },
+  {
+    "text": "普通 S、10-24 黄金 S、25-49 钻石 S、50 及以上魔王 S；S 段之间优先比较星数，不能继续按 2400",
+    "count": 1,
+    "offset": 282509
+  },
+  {
+    "text": "分后的 ELO 差值解释。\n当前地图不足 4 场必须显著降权；4-9 场只能作为弱证据，不能称为强图。\n统计覆盖不足 8",
+    "count": 1,
+    "offset": 282570
+  },
+  {
+    "text": "必须使用中文\n- JSON 键名、枚举值和证据 ID 保持英文\n- 允许使用 Rating、ADR、RWS、ELO、K",
+    "count": 1,
+    "offset": 234987
+  },
+  {
+    "text": "近若干场 ELO 变化序列（elo specialData），不是单场 Rating 列表\n- mapWinRate",
+    "count": 1,
+    "offset": 275656
+  },
+  {
+    "text": "这会删除设置文件中的加密登录数据和本地完美玩家数据缓存。其他设置不会受到影响，下次使用完美对战平台时需要重新登录。",
+    "count": 1,
+    "offset": 711970
+  },
+  {
+    "text": "只能引用输入 evidenceCatalog 中的 ID。仅输出 JSON；数组可为空，禁止为凑数编造地图优势。",
+    "count": 1,
+    "offset": 270803
+  },
+  {
+    "text": "一般不要输出 party（无可靠组排数据）\n- decisiveFactors 至少包含一条来自 ELO",
+    "count": 1,
+    "offset": 276370
+  },
+  {
+    "text": "低。\n\n5E 指标语义（务必按此理解，禁止套用完美世界 Rating Pro 语境）：\n- score",
+    "count": 1,
+    "offset": 275124
+  },
+  {
+    "text": "只表示赛季边倾向；差距不够大不能称为边优势\n- 1v1 胜率必须带 attempts；1vx",
+    "count": 1,
+    "offset": 240827
+  },
+  {
+    "text": "请给出直接、可行动且受证据约束的赛前判断，重点回答谁强、谁弱、为什么，以及会怎样影响本局。",
+    "count": 1,
+    "offset": 236626
+  },
+  {
+    "text": "无 home 时回退 match detail fight\n- seasonWinRate",
+    "count": 1,
+    "offset": 275553
+  },
+  {
+    "text": "指标基准线（红绿分界与参考区间，需结合样本量与地图适配综合判断）：\n- Rating：1",
+    "count": 1,
+    "offset": 240361
+  },
+  {
+    "text": "当局单场表现（赛后才有），不要与 seasonRating 混淆\n- eloChange",
+    "count": 1,
+    "offset": 275823
+  },
+  {
+    "text": "回合胜率，没有分侧 Rating。\n不得引用留言内容，不评价玩家人格，不输出或推断 zq",
+    "count": 1,
+    "offset": 282897
+  },
+  {
+    "text": "时 mapWinRate 等字段会缺失，不得用其他地图数据替代\n- mapStatus",
+    "count": 1,
+    "offset": 276029
+  },
+  {
+    "text": "时优先参考当局，否则多为当前地图 Rating\n- RWS：8 左右为较好影响力；",
+    "count": 1,
+    "offset": 241590
+  },
+  {
+    "text": "接等同于胜率。\n优先分析当前地图匹配度、组排协同、ELO、Rating、ADR、K",
+    "count": 1,
+    "offset": 282147
+  },
+  {
+    "text": "写成 1v1 胜率；1v1 必须同时看胜场和 attempts。\n不得把赛季 pw",
+    "count": 1,
+    "offset": 282796
+  },
+  {
+    "text": "许小幅修正胜率与 confidence。\nmodelWinProbability",
+    "count": 1,
+    "offset": 270039
+  },
+  {
+    "text": "场必须降低置信度并写入 uncertainties\n- seasonRating",
+    "count": 1,
+    "offset": 275285
+  },
+  {
+    "text": "段位、排名和本场 ELO 变化辅助信息\n\n地图状态（务必遵守）：\n- match",
+    "count": 1,
+    "offset": 275899
+  },
+  {
+    "text": "当前地图样本与胜率（map-ext），非赛季本图统计；仅当 mapStatus",
+    "count": 1,
+    "offset": 275746
+  },
+  {
+    "text": "可使用任意账号，登录仅用于查看战绩；若使用本局参赛账号，还可自动识别我方与对方",
+    "count": 1,
+    "offset": 718369
+  },
+  {
+    "text": "等通用 CS 术语\n- 严禁全英文输出或英文长段落\n- 称呼对局参与者一律用",
+    "count": 1,
+    "offset": 235057
+  },
+  {
+    "text": "数据拉取失败，赛季 Rating 可能不准确。若持续出现，请反馈给开发者。",
+    "count": 1,
+    "offset": 180201
+  },
+  {
+    "text": "单局大加减分不能单独等同强弱\n- 近期胜负（recentForm）：连胜",
+    "count": 1,
+    "offset": 241823
+  },
+  {
+    "text": "选择 DeepSeek 预设或 OpenAI 兼容服务，开启赛前智能预测",
+    "count": 1,
+    "offset": 618719
+  },
+  {
+    "text": "或单图至少 40 场；强图至少需要 10 场且表现显著高于赛季水平。",
+    "count": 1,
+    "offset": 497409
+  },
+  {
+    "text": "你是 CS2 5E 对战平台赛前分析助手。本局地图已确认，你需要在",
+    "count": 1,
+    "offset": 269862
+  },
+  {
+    "text": "须降低 confidence\n- decisiveFactors",
+    "count": 1,
+    "offset": 276262
+  },
+  {
+    "text": "开启后模型会进行更深度的推理，耗时更长（仅 DeepSeek）",
+    "count": 1,
+    "offset": 623393
+  },
+  {
+    "text": "连接不稳定，若持续出现请重启 5E；已捕获的数据仍会尝试生成",
+    "count": 1,
+    "offset": 380614
+  },
+  {
+    "text": "标签只基于当前赛季。专精需要至少 25 场且占比不低于 25",
+    "count": 1,
+    "offset": 497377
+  },
+  {
+    "text": "未获取 match 详情分队，已按 UUID 顺序临时分队",
+    "count": 1,
+    "offset": 188546
+  },
+  {
+    "text": "必须引用两个不同维度、中高可靠度且分别为 positive",
+    "count": 1,
+    "offset": 237066
+  },
+  {
+    "text": "以下为本地启发式聚合结果，仅供参考，请结合原始指标独立判断",
+    "count": 1,
+    "offset": 280972
+  },
+  {
+    "text": "观战分队不提供原始组排关系；单排及组排人数未知，不得推断。",
+    "count": 1,
+    "offset": 328121
+  },
+  {
+    "text": "勾选要展示的列，拖拽或使用箭头调整顺序。设置将保存在本机。",
+    "count": 1,
+    "offset": 537263
+  },
+  {
+    "text": "不是当局 fight 或 map-ext 生涯\n- kd",
+    "count": 1,
+    "offset": 275489
+  },
+  {
+    "text": "以上内容仅供测试更新弹窗的 Markdown 渲染效果。",
+    "count": 1,
+    "offset": 386898
+  },
+  {
+    "text": "只有回合胜率，没有分侧 Rating，且必须看 CT",
+    "count": 1,
+    "offset": 240739
+  },
+  {
+    "text": "是全部残局，不能写成 1v1\n- KAST：kast",
+    "count": 1,
+    "offset": 240879
+  },
+  {
+    "text": "发送结果未确认，请刷新后检查，确认未发送成功后再重试",
+    "count": 1,
+    "offset": 295346
+  },
+  {
+    "text": "请先在设置中配置 DeepSeek API Key",
+    "count": 1,
+    "offset": 285950
+  },
+  {
+    "text": "这是我写的测试评论，可以点编辑试试交互与表情插入。",
+    "count": 1,
+    "offset": 304833
+  },
+  {
+    "text": "启用后可获得胜率预测、胜负手和方向明确的玩家信号。",
+    "count": 1,
+    "offset": 475009
+  },
+  {
+    "text": "在对局详情中点击玩家旁的评论按钮，即可写下你的评价",
+    "count": 1,
+    "offset": 706609
+  },
+  {
+    "text": "不得自行输出或编造指标值\n- direction",
+    "count": 1,
+    "offset": 236749
+  },
+  {
+    "text": "在当前阵容的多个可靠指标上高于全场或队内中位数。",
+    "count": 1,
+    "offset": 260708
+  },
+  {
+    "text": "能进入 uncertainties\n- 禁止输出",
+    "count": 1,
+    "offset": 276491
+  },
+  {
+    "text": "残局胜率；同时显示由 vs1 胜场推算的样本局数",
+    "count": 1,
+    "offset": 443126
+  },
+  {
+    "text": "局必须降权，3-5 局谨慎参考；当前地图 CT",
+    "count": 1,
+    "offset": 240713
+  },
+  {
+    "text": "击杀高于全场均值，不自动等于残局强\n- PRI",
+    "count": 1,
+    "offset": 240984
+  },
+  {
+    "text": "连败可反映短期状态，但需结合 ELO 波动幅度",
+    "count": 1,
+    "offset": 241860
+  },
+  {
+    "text": "胜率不是确定结果，winProbability",
+    "count": 1,
+    "offset": 275018
+  },
+  {
+    "text": "这是我写的测试评论，可以点编辑和点赞试试交互。",
+    "count": 1,
+    "offset": 304126
+  },
+  {
+    "text": "正在更新分析，当前完整结果会保留到新结果生成。",
+    "count": 1,
+    "offset": 464371
+  },
+  {
+    "text": "两种方式权限相同，完美电竞 App 扫码更快捷",
+    "count": 1,
+    "offset": 724020
+  },
+  {
+    "text": "时存在\n- matchDetailStats",
+    "count": 1,
+    "offset": 275792
+  },
+  {
+    "text": "赛季 WE、首杀、道具、残局、反应时间、CT",
+    "count": 1,
+    "offset": 282195
+  },
+  {
+    "text": "已开启 Comet WebSocket 采集",
+    "count": 1,
+    "offset": 382595
+  },
+  {
+    "text": "输入框中粘贴 Key，才能启用 AI 分析。",
+    "count": 1,
+    "offset": 619456
+  },
+  {
+    "text": "部分数据格式较新，请升级客户端后查看完整内容",
+    "count": 1,
+    "offset": 743076
+  },
+  {
+    "text": "采集不完整（部分接口未捕获），数据可能缺失",
+    "count": 1,
+    "offset": 188420
+  },
+  {
+    "text": "只解释状态，不能单独当强弱\n- 胜回合伤害",
+    "count": 1,
+    "offset": 240962
+  },
+  {
+    "text": "偏低\n- ADR：75-80 为正常输出；",
+    "count": 1,
+    "offset": 241641
+  },
+  {
+    "text": "对齐 5E 数据中心主页\n- rating",
+    "count": 1,
+    "offset": 275372
+  },
+  {
+    "text": "沟通积极，会报点也会给信息，组排体验不错。",
+    "count": 1,
+    "offset": 304010
+  },
+  {
+    "text": "准备好后可手动生成当前对局的 AI 报告。",
+    "count": 1,
+    "offset": 474266
+  },
+  {
+    "text": "请结合 CS2 对局理解：地图控制、首杀",
+    "count": 1,
+    "offset": 274934
+  },
+  {
+    "text": "不是地图生涯 Rating\n- adpr",
+    "count": 1,
+    "offset": 275432
+  },
+  {
+    "text": "沟通积极，会报点也会给信息，组排体验不错",
+    "count": 1,
+    "offset": 304702
+  },
+  {
+    "text": "优先排位赛季 Rating（player",
+    "count": 1,
+    "offset": 444310
+  },
+  {
+    "text": "爆头率等指标对比需要双方均有数据才会显示",
+    "count": 1,
+    "offset": 563726
+  },
+  {
+    "text": "正在确认本机是否保存了可用的完美平台登录",
+    "count": 1,
+    "offset": 723559
+  },
+  {
+    "text": "任选一种方式登录后，即可查询完美平台战绩",
+    "count": 1,
+    "offset": 723814
+  },
+  {
+    "text": "解析失败，请粘贴解码后的匹配 JSON",
+    "count": 1,
+    "offset": 208369
+  },
+  {
+    "text": "或代码块；winProbability",
+    "count": 1,
+    "offset": 282045
+  },
+  {
+    "text": "关闭后不会调用 API，也不会自动分析",
+    "count": 1,
+    "offset": 619002
+  },
+  {
+    "text": "请输出严格 JSON，字段顺序建议：",
+    "count": 1,
+    "offset": 270299
+  },
+  {
+    "text": "赛季汇总 Rating（player",
+    "count": 1,
+    "offset": 275328
+  },
+  {
+    "text": "赛季场均 Rating（season",
+    "count": 1,
+    "offset": 275396
+  },
+  {
+    "text": "赛季场均 Rating（player",
+    "count": 1,
+    "offset": 444469
+  },
+  {
+    "text": "优先排位本赛季场次（contrast",
+    "count": 1,
+    "offset": 445919
+  },
+  {
+    "text": "优先排位本赛季胜率（contrast",
+    "count": 1,
+    "offset": 446079
+  },
+  {
+    "text": "请先填写 API Key 后才能启用",
+    "count": 1,
+    "offset": 619111
+  },
+  {
+    "text": "正在从 GitHub 获取版本列表…",
+    "count": 1,
+    "offset": 671786
+  },
+  {
+    "text": "不是 WE\n- 五维能力（shot",
+    "count": 1,
+    "offset": 241018
+  },
+  {
+    "text": "场）必须降权\n- Rating：1",
+    "count": 1,
+    "offset": 241517
+  },
+  {
+    "text": "长枪线、中路控制、狙击与首杀权重高",
+    "count": 1,
+    "offset": 241899
+  },
+  {
+    "text": "调试结果：根据当前对局真实证据生成",
+    "count": 1,
+    "offset": 261037
+  },
+  {
+    "text": "缩小核心指标差距，把对局拖入均势。",
+    "count": 1,
+    "offset": 261408
+  },
+  {
+    "text": "当前赛季优先排位场次（player",
+    "count": 1,
+    "offset": 275234
+  },
+  {
+    "text": "缺少有效比赛 ID 或完整十人名单",
+    "count": 1,
+    "offset": 321262
+  },
+  {
+    "text": "上次自动更新未完成，请手动检查更新",
+    "count": 1,
+    "offset": 387689
+  },
+  {
+    "text": "模型原始概率会按数据覆盖率向 50",
+    "count": 1,
+    "offset": 465092
+  },
+  {
+    "text": "偏低，但必须结合 ADR 与 K",
+    "count": 1,
+    "offset": 240534
+  },
+  {
+    "text": "中路控图、道具协同、默认战术执行",
+    "count": 1,
+    "offset": 241191
+  },
+  {
+    "text": "香蕉道道具、近点交火、补枪与残局",
+    "count": 1,
+    "offset": 241221
+  },
+  {
+    "text": "近，50-100 有差距，100",
+    "count": 1,
+    "offset": 241485
+  },
+  {
+    "text": "发挥纸面强度优势，减少无谓波动。",
+    "count": 1,
+    "offset": 261334
+  },
+  {
+    "text": "本赛季优先排位胜率（season",
+    "count": 1,
+    "offset": 275601
+  },
+  {
+    "text": "请先在设置中配置 API Key",
+    "count": 1,
+    "offset": 285978
+  },
+  {
+    "text": "未能连接 5E，请完全退出后重试",
+    "count": 1,
+    "offset": 374560
+  },
+  {
+    "text": "赛季 Rating Pro 均值",
+    "count": 1,
+    "offset": 441738
+  },
+  {
+    "text": "近 10 场 Rating 均值",
+    "count": 1,
+    "offset": 441785
+  },
+  {
+    "text": "匹配成功后会自动保存对局数据快照",
+    "count": 1,
+    "offset": 729879
+  },
+  {
+    "text": "数据格式较新，请升级客户端后查看",
+    "count": 1,
+    "offset": 742252
+  },
+  {
+    "text": "香蕉道道具、近点交火、补枪残局",
+    "count": 1,
+    "offset": 241956
+  },
+  {
+    "text": "当前 ELO，优先来自 elo",
+    "count": 1,
+    "offset": 275181
+  },
+  {
+    "text": "连接中断，请尝试重新启动 5E",
+    "count": 1,
+    "offset": 425857
+  },
+  {
+    "text": "更新失败，继续显示上一次结果：",
+    "count": 1,
+    "offset": 464599
+  },
+  {
+    "text": "考虑样本覆盖率后收敛至最终预测",
+    "count": 1,
+    "offset": 465223
+  },
+  {
+    "text": "仅基础玩家数据，缺少扩展统计",
+    "count": 1,
+    "offset": 207882
+  },
+  {
+    "text": "写成 WE。\n不得把 1vx",
+    "count": 1,
+    "offset": 282776
+  },
+  {
+    "text": "返回的 Mock 历史评论。",
+    "count": 1,
+    "offset": 305258
+  },
+  {
+    "text": "历史同队关系 · 组合未确定",
+    "count": 1,
+    "offset": 491804
+  },
+  {
+    "text": "费用与耗时取决于你所选服务商",
+    "count": 1,
+    "offset": 624837
+  },
+  {
+    "text": "查看和管理你发表过的所有评论",
+    "count": 1,
+    "offset": 705007
+  },
+  {
+    "text": "的本地快照，此操作不可恢复。",
+    "count": 1,
+    "offset": 745072
+  },
+  {
+    "text": "缺少 map-ext 数据",
+    "count": 1,
+    "offset": 188378
+  },
+  {
+    "text": "无法识别的 5e 数据格式",
+    "count": 1,
+    "offset": 190042
+  },
+  {
+    "text": "缺少 playerlist",
+    "count": 1,
+    "offset": 202676
+  },
+  {
+    "text": "匹配数据与允许引用的证据：",
+    "count": 1,
+    "offset": 237865
+  },
+  {
+    "text": "中路争夺、道具压制、信息战",
+    "count": 1,
+    "offset": 241277
+  },
+  {
+    "text": "中路默认、道具协同、信息战",
+    "count": 1,
+    "offset": 241929
+  },
+  {
+    "text": "名玩家具有有效当前地图样本",
+    "count": 1,
+    "offset": 258178
+  },
+  {
+    "text": "优先使用 strength",
+    "count": 1,
+    "offset": 276305
+  },
+  {
+    "text": "客户端身份获取超时，请重试",
+    "count": 1,
+    "offset": 305441
+  },
+  {
+    "text": "无法获取客户端身份，请重试",
+    "count": 1,
+    "offset": 307738
+  },
+  {
+    "text": "核心胜负条件与潜在风险博弈",
+    "count": 1,
+    "offset": 470326
+  },
+  {
+    "text": "在 GitHub 查看发布",
+    "count": 1,
+    "offset": 673254
+  },
+  {
+    "text": "请先注入或接收一条匹配数据",
+    "count": 1,
+    "offset": 753585
+  },
+  {
+    "text": "不支持（遮罩将退化为纯色）",
+    "count": 1,
+    "offset": 760736
+  },
+  {
+    "text": "近期 Rating 偏高",
+    "count": 1,
+    "offset": 167617
+  },
+  {
+    "text": "近期 Rating 偏低",
+    "count": 1,
+    "offset": 168402
+  },
+  {
+    "text": "大控制、狙击与首杀权重高",
+    "count": 1,
+    "offset": 241166
+  },
+  {
+    "text": "偏弱。有当局 fight",
+    "count": 1,
+    "offset": 241570
+  },
+  {
+    "text": "偏弱\n- 地图胜率：50",
+    "count": 1,
+    "offset": 241714
+  },
+  {
+    "text": "平均 CT Rating",
+    "count": 1,
+    "offset": 253804
+  },
+  {
+    "text": "水平；当前地图只有 CT",
+    "count": 1,
+    "offset": 282882
+  },
+  {
+    "text": "返回的 Mock 评论。",
+    "count": 1,
+    "offset": 312887
+  },
+  {
+    "text": "不一致，已采用 Gate",
+    "count": 1,
+    "offset": 372596
+  },
+  {
+    "text": "已重新连接，继续等待对局",
+    "count": 1,
+    "offset": 381127
+  },
+  {
+    "text": "模拟数据仅在开发环境可用",
+    "count": 1,
+    "offset": 382752
+  },
+  {
+    "text": "检查更新失败，请稍后重试",
+    "count": 1,
+    "offset": 389689
+  },
+  {
+    "text": "正在连接 5E，请稍候…",
+    "count": 1,
+    "offset": 425798
+  },
+  {
+    "text": "近 10 场 WE 均值",
+    "count": 1,
+    "offset": 441892
+  },
+  {
+    "text": "场 · 最近 5 场同队",
+    "count": 1,
+    "offset": 490023
+  },
+  {
+    "text": "全部残局胜率（1vx）：",
+    "count": 1,
+    "offset": 520250
+  },
+  {
+    "text": "游戏已退出，等待重新连接",
+    "count": 1,
+    "offset": 541920
+  },
+  {
+    "text": "尚未配置 API Key",
+    "count": 1,
+    "offset": 612002
+  },
+  {
+    "text": "已填写，修改后将自动保存",
+    "count": 1,
+    "offset": 612074
+  },
+  {
+    "text": "退出登录并清除登录数据？",
+    "count": 1,
+    "offset": 711901
+  },
+  {
+    "text": "是（应用动画仍保持开启）",
+    "count": 1,
+    "offset": 760256
+  },
+  {
+    "text": "未检测到 Edge 标识",
+    "count": 1,
+    "offset": 760393
+  },
+  {
+    "text": "存在高分但近期低迷玩家",
+    "count": 1,
+    "offset": 168617
+  },
+  {
+    "text": "匹配助手 -By 小淳",
+    "count": 1,
+    "offset": 231639
+  },
+  {
+    "text": "的玩家证据；sides",
+    "count": 1,
+    "offset": 237105
+  },
+  {
+    "text": "等 direction",
+    "count": 1,
+    "offset": 237132
+  },
+  {
+    "text": "队，禁止直接输出“我方",
+    "count": 1,
+    "offset": 237721
+  },
+  {
+    "text": "回合数\n- 赛季 CT",
+    "count": 1,
+    "offset": 240768
+  },
+  {
+    "text": "补枪成功率：trade",
+    "count": 1,
+    "offset": 240926
+  },
+  {
+    "text": "近距离交火、首杀与补枪",
+    "count": 1,
+    "offset": 241304
+  },
+  {
+    "text": "道具、信息、长枪与狙击",
+    "count": 1,
+    "offset": 241330
+  },
+  {
+    "text": "明显差距；低赛季场次（",
+    "count": 1,
+    "offset": 241503
+  },
+  {
+    "text": "平均 T Rating",
+    "count": 1,
+    "offset": 253919
+  },
+  {
+    "text": "名玩家缺少完整赛季统计",
+    "count": 1,
+    "offset": 258122
+  },
+  {
+    "text": "该项只引用证据目录中的",
+    "count": 1,
+    "offset": 261236
+  },
+  {
+    "text": "评论超过30天不可编辑",
+    "count": 1,
+    "offset": 315058
+  },
+  {
+    "text": "这是 Mock 回复。",
+    "count": 1,
+    "offset": 316806
+  },
+  {
+    "text": "五分钟内未获取有效分队",
+    "count": 1,
+    "offset": 321654
+  },
+  {
+    "text": "近期标准 Rating",
+    "count": 1,
+    "offset": 438753
+  },
+  {
+    "text": "流式预估 · 正在校准",
+    "count": 1,
+    "offset": 463615
+  },
+  {
+    "text": "作者 Bilibili",
+    "count": 1,
+    "offset": 606198
+  },
+  {
+    "text": "硅基流动、本地代理等。",
+    "count": 1,
+    "offset": 623723
+  },
+  {
+    "text": "复制 Steam ID",
+    "count": 1,
+    "offset": 707685
+  },
+  {
+    "text": "完美电竞 App 扫码",
+    "count": 1,
+    "offset": 717021
+  },
+  {
+    "text": "独立窗口登录 · 备选",
+    "count": 1,
+    "offset": 725848
+  },
+  {
+    "text": "的 Steam ID",
+    "count": 1,
+    "offset": 143532
+  },
+  {
+    "text": "缺少 data 字段",
+    "count": 1,
+    "offset": 203024
+  },
+  {
+    "text": "近距离交火、首杀补枪",
+    "count": 1,
+    "offset": 242034
+  },
+  {
+    "text": "内外场转换、道具协同",
+    "count": 1,
+    "offset": 242102
+  },
+  {
+    "text": "狭窄通道、道具与补枪",
+    "count": 1,
+    "offset": 242145
+  },
+  {
+    "text": "留言数量和留言正文。",
+    "count": 1,
+    "offset": 282945
+  },
+  {
+    "text": "操作失败，请稍后重试",
+    "count": 1,
+    "offset": 305794
+  },
+  {
+    "text": "帧 · opcode",
+    "count": 1,
+    "offset": 373461
+  },
+  {
+    "text": "部分玩家缺少主页数据",
+    "count": 1,
+    "offset": 378319
+  },
+  {
+    "text": "当前赛季 radar",
+    "count": 1,
+    "offset": 442043
+  },
+  {
+    "text": "正在分析对局，请稍候",
+    "count": 1,
+    "offset": 451826
+  },
+  {
+    "text": "与主表格头像图标联动",
+    "count": 1,
+    "offset": 468435
+  },
+  {
+    "text": "还差 API Key",
+    "count": 1,
+    "offset": 474829
+  },
+  {
+    "text": "场，最近 5 场同队",
+    "count": 1,
+    "offset": 492394
+  },
+  {
+    "text": "查看 AI 分析结果",
+    "count": 1,
+    "offset": 588691
+  },
+  {
+    "text": "点击复制 QQ 群号",
+    "count": 1,
+    "offset": 607339
+  },
+  {
+    "text": "隐藏 API Key",
+    "count": 1,
+    "offset": 622223
+  },
+  {
+    "text": "显示 API Key",
+    "count": 1,
+    "offset": 622257
+  },
+  {
+    "text": "暂无回复，来抢沙发吧",
+    "count": 1,
+    "offset": 699327
+  },
+  {
+    "text": "复制 SteamID",
+    "count": 1,
+    "offset": 720489
+  },
+  {
+    "text": "平均 ELO 偏高",
+    "count": 1,
+    "offset": 167180
+  },
+  {
+    "text": "缺少 player",
+    "count": 1,
+    "offset": 188767
+  },
+  {
+    "text": "地图偏差；地图样本",
+    "count": 1,
+    "offset": 241749
+  },
+  {
+    "text": "中路争夺、道具压制",
+    "count": 1,
+    "offset": 242011
+  },
+  {
+    "text": "道具信息、长枪狙击",
+    "count": 1,
+    "offset": 242059
+  },
+  {
+    "text": "中路控制、道具默认",
+    "count": 1,
+    "offset": 242081
+  },
+  {
+    "text": "中路控制、快攻节奏",
+    "count": 1,
+    "offset": 242124
+  },
+  {
+    "text": "近期 ELO 变化",
+    "count": 1,
+    "offset": 247368
+  },
+  {
+    "text": "写成当前地图 CT",
+    "count": 1,
+    "offset": 282870
+  },
+  {
+    "text": "无法获取客户端身份",
+    "count": 1,
+    "offset": 295042
+  },
+  {
+    "text": "完美留言板加载失败",
+    "count": 1,
+    "offset": 300611
+  },
+  {
+    "text": "请先切换到完美平台",
+    "count": 1,
+    "offset": 349512
+  },
+  {
+    "text": "超时未获取地图 ·",
+    "count": 1,
+    "offset": 377855
+  },
+  {
+    "text": "匹配 enrich",
+    "count": 1,
+    "offset": 379341
+  },
+  {
+    "text": "已关闭，请重新启动",
+    "count": 1,
+    "offset": 381968
+  },
+  {
+    "text": "采集器已启动，端口",
+    "count": 1,
+    "offset": 383530
+  },
+  {
+    "text": "请重启完美对战平台",
+    "count": 1,
+    "offset": 425920
+  },
+  {
+    "text": "标准 Rating",
+    "count": 1,
+    "offset": 438632
+  },
+  {
+    "text": "通用 Rating",
+    "count": 1,
+    "offset": 438913
+  },
+  {
+    "text": "本场平台已确认组排",
+    "count": 1,
+    "offset": 489774
+  },
+  {
+    "text": "等待下一位玩家接受",
+    "count": 1,
+    "offset": 531019
+  },
+  {
+    "text": "作者 GitHub",
+    "count": 1,
+    "offset": 605833
+  },
+  {
+    "text": "正在加载更新详情…",
+    "count": 1,
+    "offset": 674319
+  },
+  {
+    "text": "该版本暂无详细说明",
+    "count": 1,
+    "offset": 674893
+  },
+  {
+    "text": "扫码登录 · 推荐",
+    "count": 1,
+    "offset": 724908
+  },
+  {
+    "text": "无法加载该对局详情",
+    "count": 1,
+    "offset": 742316
+  },
+  {
+    "text": "删除这条对局记录？",
+    "count": 1,
+    "offset": 744996
+  },
+  {
+    "text": "复制失败，请重试",
+    "count": 1,
+    "offset": 143431
+  },
+  {
+    "text": "左右为较好输出；",
+    "count": 1,
+    "offset": 240567
+  },
+  {
+    "text": "输出偏低\n- K",
+    "count": 1,
+    "offset": 240598
+  },
+  {
+    "text": "低不应简单判优势",
+    "count": 1,
+    "offset": 241134
+  },
+  {
+    "text": "多层结构、信息战",
+    "count": 1,
+    "offset": 242167
+  },
+  {
+    "text": "本图 CT 回合",
+    "count": 1,
+    "offset": 251092
+  },
+  {
+    "text": "当前地图尚未确认",
+    "count": 1,
+    "offset": 258202
+  },
+  {
+    "text": "阵容数据不完整（",
+    "count": 1,
+    "offset": 258233
+  },
+  {
+    "text": "载体验\n\n---",
+    "count": 1,
+    "offset": 386879
+  },
+  {
+    "text": "当前已是最新版本",
+    "count": 1,
+    "offset": 389544
+  },
+  {
+    "text": "完美世界竞技平台",
+    "count": 1,
+    "offset": 430052
+  },
+  {
+    "text": "近期Rating",
+    "count": 1,
+    "offset": 444446
+  },
+  {
+    "text": "与全场中位数相当",
+    "count": 1,
+    "offset": 462633
+  },
+  {
+    "text": "再生成赛前分析。",
+    "count": 1,
+    "offset": 474944
+  },
+  {
+    "text": "本场平台组排信息",
+    "count": 1,
+    "offset": 492040
+  },
+  {
+    "text": "已开局，等待分队",
+    "count": 1,
+    "offset": 542066
+  },
+  {
+    "text": "两队平均匹配分，",
+    "count": 1,
+    "offset": 584537
+  },
+  {
+    "text": "两队近10场胜率",
+    "count": 1,
+    "offset": 587800
+  },
+  {
+    "text": "前往 AI 分析",
+    "count": 1,
+    "offset": 588729
+  },
+  {
+    "text": "修改后将自动保存",
+    "count": 1,
+    "offset": 612288
+  },
+  {
+    "text": "正在加载版本列表",
+    "count": 1,
+    "offset": 671088
+  },
+  {
+    "text": "无法加载更新日志",
+    "count": 1,
+    "offset": 671954
+  },
+  {
+    "text": "正在加载更新详情",
+    "count": 1,
+    "offset": 674016
+  },
+  {
+    "text": "暂无公开发布记录",
+    "count": 1,
+    "offset": 675032
+  },
+  {
+    "text": "还没有发表过评论",
+    "count": 1,
+    "offset": 706559
+  },
+  {
+    "text": "账号标识暂不可用",
+    "count": 1,
+    "offset": 721281
+  },
+  {
+    "text": "正在检查登录状态",
+    "count": 1,
+    "offset": 723501
+  },
+  {
+    "text": "完美电竞 App",
+    "count": 1,
+    "offset": 724851
+  },
+  {
+    "text": "系统减少动态效果",
+    "count": 1,
+    "offset": 760220
+  },
+  {
+    "text": "缺少 user",
+    "count": 1,
+    "offset": 188306
+  },
+  {
+    "text": "本图 T 回合",
+    "count": 1,
+    "offset": 251181
+  },
+  {
+    "text": "平均首杀转化率",
+    "count": 1,
+    "offset": 254032
+  },
+  {
+    "text": "等完美专属词。",
+    "count": 1,
+    "offset": 270279
+  },
+  {
+    "text": "评论请求已超时",
+    "count": 1,
+    "offset": 295222
+  },
+  {
+    "text": "留言板加载失败",
+    "count": 1,
+    "offset": 298761
+  },
+  {
+    "text": "炙热沙城 II",
+    "count": 1,
+    "offset": 363844
+  },
+  {
+    "text": "炙热沙城 ii",
+    "count": 1,
+    "offset": 364886
+  },
+  {
+    "text": "与 WS 候选",
+    "count": 1,
+    "offset": 372583
+  },
+  {
+    "text": "仍尝试生成：缺",
+    "count": 1,
+    "offset": 378673
+  },
+  {
+    "text": "模型原始预估：",
+    "count": 1,
+    "offset": 465192
+  },
+  {
+    "text": "点击可高亮阵营",
+    "count": 1,
+    "offset": 465405
+  },
+  {
+    "text": "决定本局的因素",
+    "count": 1,
+    "offset": 466828
+  },
+  {
+    "text": "本次分析未完成",
+    "count": 1,
+    "offset": 474072
+  },
+  {
+    "text": "自动分析已关闭",
+    "count": 1,
+    "offset": 474164
+  },
+  {
+    "text": "查看或发表评论",
+    "count": 1,
+    "offset": 493097
+  },
+  {
+    "text": "主要地图熟练度",
+    "count": 1,
+    "offset": 499724
+  },
+  {
+    "text": "的 AI 分析",
+    "count": 1,
+    "offset": 524545
+  },
+  {
+    "text": "分队查询已暂停",
+    "count": 1,
+    "offset": 542284
+  },
+  {
+    "text": "平均首杀成功率",
+    "count": 1,
+    "offset": 569248
+  },
+  {
+    "text": "两队平均匹配分",
+    "count": 1,
+    "offset": 584583
+  },
+  {
+    "text": "已复制开源地址",
+    "count": 1,
+    "offset": 604436
+  },
+  {
+    "text": "匿名评论者头像",
+    "count": 1,
+    "offset": 683039
+  },
+  {
+    "text": "正在加载回复…",
+    "count": 1,
+    "offset": 698905
+  },
+  {
+    "text": "写下你的回复…",
+    "count": 1,
+    "offset": 700269
+  },
+  {
+    "text": "还没有历史对局",
+    "count": 1,
+    "offset": 729823
+  },
+  {
+    "text": "地图胜率较高",
+    "count": 1,
+    "offset": 167413
+  },
+  {
+    "text": "近期胜率较高",
+    "count": 1,
+    "offset": 167514
+  },
+  {
+    "text": "火力维度突出",
+    "count": 1,
+    "offset": 167789
+  },
+  {
+    "text": "狙击能力较强",
+    "count": 1,
+    "offset": 167851
+  },
+  {
+    "text": "地图胜率偏低",
+    "count": 1,
+    "offset": 168124
+  },
+  {
+    "text": "近期胜率偏低",
+    "count": 1,
+    "offset": 168224
+  },
+  {
+    "text": "单排玩家较多",
+    "count": 1,
+    "offset": 168662
+  },
+  {
+    "text": "签名验证失败",
+    "count": 1,
+    "offset": 179936
+  },
+  {
+    "text": "批量拉取失败",
+    "count": 1,
+    "offset": 180176
+  },
+  {
+    "text": "缺少 elo",
+    "count": 1,
+    "offset": 188343
+  },
+  {
+    "text": "可能不准确：",
+    "count": 1,
+    "offset": 188816
+  },
+  {
+    "text": "完美对战平台",
+    "count": 1,
+    "offset": 221008
+  },
+  {
+    "text": "影响力较强；",
+    "count": 1,
+    "offset": 240525
+  },
+  {
+    "text": "为基本分界；",
+    "count": 1,
+    "offset": 240614
+  },
+  {
+    "text": "稳定正贡献；",
+    "count": 1,
+    "offset": 240627
+  },
+  {
+    "text": "长枪线、中路",
+    "count": 1,
+    "offset": 241158
+  },
+  {
+    "text": "偏低\n- K",
+    "count": 1,
+    "offset": 241676
+  },
+  {
+    "text": "稳定正贡献，",
+    "count": 1,
+    "offset": 241702
+  },
+  {
+    "text": "历史最高段位",
+    "count": 1,
+    "offset": 254763
+  },
+  {
+    "text": "多维数据强点",
+    "count": 1,
+    "offset": 260691
+  },
+  {
+    "text": "历史重点玩家",
+    "count": 1,
+    "offset": 265903
+  },
+  {
+    "text": "历史分析依据",
+    "count": 1,
+    "offset": 268031
+  },
+  {
+    "text": "双方数据接近",
+    "count": 1,
+    "offset": 269379
+  },
+  {
+    "text": "已有分析结论",
+    "count": 1,
+    "offset": 269896
+  },
+  {
+    "text": "赛季 ADR",
+    "count": 1,
+    "offset": 275463
+  },
+  {
+    "text": "等完美专属词",
+    "count": 1,
+    "offset": 276547
+  },
+  {
+    "text": "前赛季 we",
+    "count": 1,
+    "offset": 282348
+  },
+  {
+    "text": "得把 PRI",
+    "count": 1,
+    "offset": 282759
+  },
+  {
+    "text": "加载评论失败",
+    "count": 1,
+    "offset": 311699
+  },
+  {
+    "text": "接口不完整（",
+    "count": 1,
+    "offset": 378650
+  },
+  {
+    "text": "开始连接端口",
+    "count": 1,
+    "offset": 383396
+  },
+  {
+    "text": "势均力敌 A",
+    "count": 1,
+    "offset": 430967
+  },
+  {
+    "text": "近期 RWS",
+    "count": 1,
+    "offset": 440070
+  },
+  {
+    "text": "按服务商计费",
+    "count": 1,
+    "offset": 450842
+  },
+  {
+    "text": "数据分析中…",
+    "count": 1,
+    "offset": 451769
+  },
+  {
+    "text": "双方势均力敌",
+    "count": 1,
+    "offset": 460499
+  },
+  {
+    "text": "暂时难以判断",
+    "count": 1,
+    "offset": 460529
+  },
+  {
+    "text": "变量与旧关注",
+    "count": 1,
+    "offset": 460884
+  },
+  {
+    "text": "战力胜率预测",
+    "count": 1,
+    "offset": 465354
+  },
+  {
+    "text": "项核心胜负手",
+    "count": 1,
+    "offset": 466921
+  },
+  {
+    "text": "双方取胜路径",
+    "count": 1,
+    "offset": 470272
+  },
+  {
+    "text": "暂无足够证据",
+    "count": 1,
+    "offset": 471656
+  },
+  {
+    "text": "暂无明确隐患",
+    "count": 1,
+    "offset": 472364
+  },
+  {
+    "text": "获取 Key",
+    "count": 1,
+    "offset": 475529
+  },
+  {
+    "text": "等待分队 ·",
+    "count": 1,
+    "offset": 521379
+  },
+  {
+    "text": "玩家接受进度",
+    "count": 1,
+    "offset": 522554
+  },
+  {
+    "text": "暂未获取分队",
+    "count": 1,
+    "offset": 542007
+  },
+  {
+    "text": "等待玩家接受",
+    "count": 1,
+    "offset": 542172
+  },
+  {
+    "text": "正在获取分队",
+    "count": 1,
+    "offset": 542350
+  },
+  {
+    "text": "平均残局胜率",
+    "count": 1,
+    "offset": 569443
+  },
+  {
+    "text": "赛季地图胜率",
+    "count": 1,
+    "offset": 587424
+  },
+  {
+    "text": "请先在下方的",
+    "count": 1,
+    "offset": 619438
+  },
+  {
+    "text": "启用思考模式",
+    "count": 1,
+    "offset": 623342
+  },
+  {
+    "text": "加载更多回复",
+    "count": 1,
+    "offset": 699916
+  },
+  {
+    "text": "选择登录方式",
+    "count": 1,
+    "offset": 723964
+  },
+  {
+    "text": "地图 Lv",
+    "count": 1,
+    "offset": 178381
+  },
+  {
+    "text": "签名或网关",
+    "count": 1,
+    "offset": 179958
+  },
+  {
+    "text": "拉取不完整",
+    "count": 1,
+    "offset": 188752
+  },
+  {
+    "text": "数据不完整",
+    "count": 1,
+    "offset": 189943
+  },
+  {
+    "text": "来自 pw",
+    "count": 1,
+    "offset": 240789
+  },
+  {
+    "text": "地图偏好，",
+    "count": 1,
+    "offset": 241739
+  },
+  {
+    "text": "赛季 CT",
+    "count": 1,
+    "offset": 250915
+  },
+  {
+    "text": "平均 WE",
+    "count": 1,
+    "offset": 253729
+  },
+  {
+    "text": "历史风险点",
+    "count": 1,
+    "offset": 265895
+  },
+  {
+    "text": "中必须称为",
+    "count": 1,
+    "offset": 274914
+  },
+  {
+    "text": "近10胜场",
+    "count": 1,
+    "offset": 446474
+  },
+  {
+    "text": "近10场次",
+    "count": 1,
+    "offset": 446587
+  },
+  {
+    "text": "全场中位数",
+    "count": 1,
+    "offset": 462725
+  },
+  {
+    "text": "流式校准中",
+    "count": 1,
+    "offset": 464851
+  },
+  {
+    "text": "组合未确定",
+    "count": 1,
+    "offset": 489109
+  },
+  {
+    "text": "首发命中率",
+    "count": 1,
+    "offset": 501857
+  },
+  {
+    "text": "扫射命中率",
+    "count": 1,
+    "offset": 501921
+  },
+  {
+    "text": "残局获胜：",
+    "count": 1,
+    "offset": 520268
+  },
+  {
+    "text": "对局已结束",
+    "count": 1,
+    "offset": 541863
+  },
+  {
+    "text": "全员已接受",
+    "count": 1,
+    "offset": 542141
+  },
+  {
+    "text": "平均爆头率",
+    "count": 1,
+    "offset": 569094
+  },
+  {
+    "text": "队伍平均分",
+    "count": 1,
+    "offset": 569884
+  },
+  {
+    "text": "正在保存…",
+    "count": 1,
+    "offset": 612251
+  },
+  {
+    "text": "评论加载中",
+    "count": 1,
+    "offset": 705383
+  },
+  {
+    "text": "清除并退出",
+    "count": 1,
+    "offset": 713318
+  },
+  {
+    "text": "登录已失效",
+    "count": 1,
+    "offset": 716784
+  },
+  {
+    "text": "删除该对局",
+    "count": 1,
+    "offset": 734811
+  },
+  {
+    "text": "加载详情…",
+    "count": 1,
+    "offset": 743201
+  },
+  {
+    "text": "运行时诊断",
+    "count": 1,
+    "offset": 760877
+  },
+  {
+    "text": "优先排位",
+    "count": 1,
+    "offset": 187450
+  },
+  {
+    "text": "格式无效",
+    "count": 1,
+    "offset": 202885
+  },
+  {
+    "text": "强输出；",
+    "count": 1,
+    "offset": 240590
+  },
+  {
+    "text": "偏弱（K",
+    "count": 1,
+    "offset": 240639
+  },
+  {
+    "text": "场均助攻",
+    "count": 1,
+    "offset": 246625
+  },
+  {
+    "text": "击杀耗时",
+    "count": 1,
+    "offset": 247120
+  },
+  {
+    "text": "对枪结构",
+    "count": 1,
+    "offset": 251869
+  },
+  {
+    "text": "残局结构",
+    "count": 1,
+    "offset": 252519
+  },
+  {
+    "text": "最后存活",
+    "count": 1,
+    "offset": 252745
+  },
+  {
+    "text": "赛季变化",
+    "count": 1,
+    "offset": 252850
+  },
+  {
+    "text": "当前段位",
+    "count": 1,
+    "offset": 254445
+  },
+  {
+    "text": "基础统计",
+    "count": 1,
+    "offset": 258488
+  },
+  {
+    "text": "地图样本",
+    "count": 1,
+    "offset": 258505
+  },
+  {
+    "text": "赛季 K",
+    "count": 1,
+    "offset": 275520
+  },
+  {
+    "text": "请求失败",
+    "count": 1,
+    "offset": 294503
+  },
+  {
+    "text": "调试玩家",
+    "count": 1,
+    "offset": 303762
+  },
+  {
+    "text": "死亡工厂",
+    "count": 1,
+    "offset": 365032
+  },
+  {
+    "text": "未知平台",
+    "count": 1,
+    "offset": 366401
+  },
+  {
+    "text": "时间未知",
+    "count": 1,
+    "offset": 366678
+  },
+  {
+    "text": "打开 ·",
+    "count": 1,
+    "offset": 373360
+  },
+  {
+    "text": "关闭 ·",
+    "count": 1,
+    "offset": 373420
+  },
+  {
+    "text": "用户信息",
+    "count": 1,
+    "offset": 374167
+  },
+  {
+    "text": "地图扩展",
+    "count": 1,
+    "offset": 374226
+  },
+  {
+    "text": "匹配地图",
+    "count": 1,
+    "offset": 376264
+  },
+  {
+    "text": "匹配完成",
+    "count": 1,
+    "offset": 376931
+  },
+  {
+    "text": "调试说明",
+    "count": 1,
+    "offset": 386891
+  },
+  {
+    "text": "更换平台",
+    "count": 1,
+    "offset": 427305
+  },
+  {
+    "text": "擅长武器",
+    "count": 1,
+    "offset": 438079
+  },
+  {
+    "text": "近期WE",
+    "count": 1,
+    "offset": 438341
+  },
+  {
+    "text": "赛季胜场",
+    "count": 1,
+    "offset": 439136
+  },
+  {
+    "text": "残局获胜",
+    "count": 1,
+    "offset": 440748
+  },
+  {
+    "text": "打法特点",
+    "count": 1,
+    "offset": 440906
+  },
+  {
+    "text": "近期胜负",
+    "count": 1,
+    "offset": 445015
+  },
+  {
+    "text": "地图场次",
+    "count": 1,
+    "offset": 445681
+  },
+  {
+    "text": "地图胜场",
+    "count": 1,
+    "offset": 446364
+  },
+  {
+    "text": "中等可信",
+    "count": 1,
+    "offset": 460256
+  },
+  {
+    "text": "谨慎参考",
+    "count": 1,
+    "offset": 460288
+  },
+  {
+    "text": "正面信号",
+    "count": 1,
+    "offset": 460630
+  },
+  {
+    "text": "负面信号",
+    "count": 1,
+    "offset": 460773
+  },
+  {
+    "text": "停止分析",
+    "count": 1,
+    "offset": 464232
+  },
+  {
+    "text": "玩家信号",
+    "count": 1,
+    "offset": 468385
+  },
+  {
+    "text": "战术推演",
+    "count": 1,
+    "offset": 470909
+  },
+  {
+    "text": "取胜条件",
+    "count": 1,
+    "offset": 471033
+  },
+  {
+    "text": "主要隐患",
+    "count": 1,
+    "offset": 471774
+  },
+  {
+    "text": "数据边界",
+    "count": 1,
+    "offset": 472589
+  },
+  {
+    "text": "运行信息",
+    "count": 1,
+    "offset": 472948
+  },
+  {
+    "text": "分析耗时",
+    "count": 1,
+    "offset": 473010
+  },
+  {
+    "text": "数据质量",
+    "count": 1,
+    "offset": 473258
+  },
+  {
+    "text": "重新分析",
+    "count": 1,
+    "offset": 473646
+  },
+  {
+    "text": "开始分析",
+    "count": 1,
+    "offset": 474700
+  },
+  {
+    "text": "请先配置",
+    "count": 1,
+    "offset": 474928
+  },
+  {
+    "text": "打开设置",
+    "count": 1,
+    "offset": 475873
+  },
+  {
+    "text": "玩家头像",
+    "count": 1,
+    "offset": 476158
+  },
+  {
+    "text": "同队关系",
+    "count": 1,
+    "offset": 489065
+  },
+  {
+    "text": "关联玩家",
+    "count": 1,
+    "offset": 489280
+  },
+  {
+    "text": "平台信息",
+    "count": 1,
+    "offset": 489659
+  },
+  {
+    "text": "组队房间",
+    "count": 1,
+    "offset": 489699
+  },
+  {
+    "text": "近期战绩",
+    "count": 1,
+    "offset": 489717
+  },
+  {
+    "text": "双方样本",
+    "count": 1,
+    "offset": 489988
+  },
+  {
+    "text": "最近同队",
+    "count": 1,
+    "offset": 490189
+  },
+  {
+    "text": "最近样本",
+    "count": 1,
+    "offset": 492335
+  },
+  {
+    "text": "场，同队",
+    "count": 1,
+    "offset": 492368
+  },
+  {
+    "text": "赛季同队",
+    "count": 1,
+    "offset": 492590
+  },
+  {
+    "text": "本季少玩",
+    "count": 1,
+    "offset": 495606
+  },
+  {
+    "text": "赛季占比",
+    "count": 1,
+    "offset": 496771
+  },
+  {
+    "text": "首杀对枪",
+    "count": 1,
+    "offset": 496940
+  },
+  {
+    "text": "回合胜率",
+    "count": 1,
+    "offset": 497073
+  },
+  {
+    "text": "暂无图池",
+    "count": 1,
+    "offset": 500232
+  },
+  {
+    "text": "场均击杀",
+    "count": 1,
+    "offset": 501668
+  },
+  {
+    "text": "场均伤害",
+    "count": 1,
+    "offset": 501976
+  },
+  {
+    "text": "伤害评级",
+    "count": 1,
+    "offset": 502053
+  },
+  {
+    "text": "黄金 S",
+    "count": 1,
+    "offset": 513076
+  },
+  {
+    "text": "钻石 S",
+    "count": 1,
+    "offset": 513109
+  },
+  {
+    "text": "魔王 S",
+    "count": 1,
+    "offset": 513143
+  },
+  {
+    "text": "普通 S",
+    "count": 1,
+    "offset": 513163
+  },
+  {
+    "text": "暂无数据",
+    "count": 1,
+    "offset": 513462
+  },
+  {
+    "text": "等待数据",
+    "count": 1,
+    "offset": 521324
+  },
+  {
+    "text": "恢复默认",
+    "count": 1,
+    "offset": 538104
+  },
+  {
+    "text": "即将截止",
+    "count": 1,
+    "offset": 585976
+  },
+  {
+    "text": "队伍数据",
+    "count": 1,
+    "offset": 589945
+  },
+  {
+    "text": "对比分析",
+    "count": 1,
+    "offset": 590379
+  },
+  {
+    "text": "检查中…",
+    "count": 1,
+    "offset": 604314
+  },
+  {
+    "text": "检查更新",
+    "count": 1,
+    "offset": 604336
+  },
+  {
+    "text": "开源地址",
+    "count": 1,
+    "offset": 608089
+  },
+  {
+    "text": "已保存：",
+    "count": 1,
+    "offset": 612180
+  },
+  {
+    "text": "前往获取",
+    "count": 1,
+    "offset": 621358
+  },
+  {
+    "text": "模型名称",
+    "count": 1,
+    "offset": 624391
+  },
+  {
+    "text": "更新内容",
+    "count": 1,
+    "offset": 668038
+  },
+  {
+    "text": "当前版本",
+    "count": 1,
+    "offset": 672858
+  },
+  {
+    "text": "选择表情",
+    "count": 1,
+    "offset": 679015
+  },
+  {
+    "text": "取消点赞",
+    "count": 1,
+    "offset": 697312
+  },
+  {
+    "text": "回复图片",
+    "count": 1,
+    "offset": 702541
+  },
+  {
+    "text": "我的评论",
+    "count": 1,
+    "offset": 704968
+  },
+  {
+    "text": "正在检查",
+    "count": 1,
+    "offset": 716664
+  },
+  {
+    "text": "检查失败",
+    "count": 1,
+    "offset": 716759
+  },
+  {
+    "text": "登录方式",
+    "count": 1,
+    "offset": 721453
+  },
+  {
+    "text": "检查状态",
+    "count": 1,
+    "offset": 722627
+  },
+  {
+    "text": "退出登录",
+    "count": 1,
+    "offset": 723335
+  },
+  {
+    "text": "尚未登录",
+    "count": 1,
+    "offset": 723770
+  },
+  {
+    "text": "暂无预览",
+    "count": 1,
+    "offset": 731451
+  },
+  {
+    "text": "历史对局",
+    "count": 1,
+    "offset": 735749
+  },
+  {
+    "text": "平台筛选",
+    "count": 1,
+    "offset": 736259
+  },
+  {
+    "text": "将删除“",
+    "count": 1,
+    "offset": 745050
+  },
+  {
+    "text": "确认删除",
+    "count": 1,
+    "offset": 745581
+  },
+  {
+    "text": "人组排",
+    "count": 1,
+    "offset": 167938
+  },
+  {
+    "text": "数据（",
+    "count": 1,
+    "offset": 188782
+  },
+  {
+    "text": "偏弱，",
+    "count": 1,
+    "offset": 240442
+  },
+  {
+    "text": "样本：",
+    "count": 1,
+    "offset": 240707
+  },
+  {
+    "text": "开完胜",
+    "count": 1,
+    "offset": 251491
+  },
+  {
+    "text": "道具伤",
+    "count": 1,
+    "offset": 251786
+  },
+  {
+    "text": "胜回合",
+    "count": 1,
+    "offset": 252213
+  },
+  {
+    "text": "队组排",
+    "count": 1,
+    "offset": 256581
+  },
+  {
+    "text": "不存在",
+    "count": 1,
+    "offset": 369653
+  },
+  {
+    "text": "已捕获",
+    "count": 1,
+    "offset": 380189
+  },
+  {
+    "text": "已关闭",
+    "count": 1,
+    "offset": 382657
+  },
+  {
+    "text": "突破率",
+    "count": 1,
+    "offset": 439355
+  },
+  {
+    "text": "高可信",
+    "count": 1,
+    "offset": 460223
+  },
+  {
+    "text": "旧关注",
+    "count": 1,
+    "offset": 461220
+  },
+  {
+    "text": "高可靠",
+    "count": 1,
+    "offset": 462836
+  },
+  {
+    "text": "中可靠",
+    "count": 1,
+    "offset": 462877
+  },
+  {
+    "text": "低样本",
+    "count": 1,
+    "offset": 462895
+  },
+  {
+    "text": "人组合",
+    "count": 1,
+    "offset": 489320
+  },
+  {
+    "text": "条评论",
+    "count": 1,
+    "offset": 493061
+  },
+  {
+    "text": "有经验",
+    "count": 1,
+    "offset": 495569
+  },
+  {
+    "text": "无记录",
+    "count": 1,
+    "offset": 495638
+  },
+  {
+    "text": "熟练度",
+    "count": 1,
+    "offset": 496669
+  },
+  {
+    "text": "胜率：",
+    "count": 1,
+    "offset": 520723
+  },
+  {
+    "text": "待接受",
+    "count": 1,
+    "offset": 526814
+  },
+  {
+    "text": "次获胜",
+    "count": 1,
+    "offset": 529685
+  },
+  {
+    "text": "已显示",
+    "count": 1,
+    "offset": 537731
+  },
+  {
+    "text": "赛季胜",
+    "count": 1,
+    "offset": 548599
+  },
+  {
+    "text": "已保存",
+    "count": 1,
+    "offset": 612212
+  },
+  {
+    "text": "未填写",
+    "count": 1,
+    "offset": 619393
+  },
+  {
+    "text": "分钟前",
+    "count": 1,
+    "offset": 675409
+  },
+  {
+    "text": "小时前",
+    "count": 1,
+    "offset": 675481
+  },
+  {
+    "text": "个月前",
+    "count": 1,
+    "offset": 675711
+  },
+  {
+    "text": "已编辑",
+    "count": 1,
+    "offset": 695541
+  },
+  {
+    "text": "已登录",
+    "count": 1,
+    "offset": 716693
+  },
+  {
+    "text": "未记录",
+    "count": 1,
+    "offset": 717063
+  },
+  {
+    "text": "检查中",
+    "count": 1,
+    "offset": 722604
+  },
+  {
+    "text": "条，共",
+    "count": 1,
+    "offset": 738318
+  },
+  {
+    "text": "上一页",
+    "count": 1,
+    "offset": 738939
+  },
+  {
+    "text": "页，共",
+    "count": 1,
+    "offset": 739485
+  },
+  {
+    "text": "下一页",
+    "count": 1,
+    "offset": 740103
+  },
+  {
+    "text": "本队",
+    "count": 1,
+    "offset": 167078
+  },
+  {
+    "text": "偏高",
+    "count": 1,
+    "offset": 167269
+  },
+  {
+    "text": "疑似",
+    "count": 1,
+    "offset": 167930
+  },
+  {
+    "text": "偏低",
+    "count": 1,
+    "offset": 168051
+  },
+  {
+    "text": "倾向",
+    "count": 1,
+    "offset": 168867
+  },
+  {
+    "text": "峰值",
+    "count": 1,
+    "offset": 178126
+  },
+  {
+    "text": "生涯",
+    "count": 1,
+    "offset": 178198
+  },
+  {
+    "text": "连败",
+    "count": 1,
+    "offset": 178288
+  },
+  {
+    "text": "信用",
+    "count": 1,
+    "offset": 178488
+  },
+  {
+    "text": "模式",
+    "count": 1,
+    "offset": 189189
+  },
+  {
+    "text": "单排",
+    "count": 1,
+    "offset": 204774
+  },
+  {
+    "text": "绿色",
+    "count": 1,
+    "offset": 204833
+  },
+  {
+    "text": "论：",
+    "count": 1,
+    "offset": 237855
+  },
+  {
+    "text": "强，",
+    "count": 1,
+    "offset": 241636
+  },
+  {
+    "text": "开局",
+    "count": 1,
+    "offset": 251283
+  },
+  {
+    "text": "对枪",
+    "count": 1,
+    "offset": 251408
+  },
+  {
+    "text": "闪助",
+    "count": 1,
+    "offset": 251634
+  },
+  {
+    "text": "致盲",
+    "count": 1,
+    "offset": 251713
+  },
+  {
+    "text": "扫射",
+    "count": 1,
+    "offset": 251996
+  },
+  {
+    "text": "手枪",
+    "count": 1,
+    "offset": 252061
+  },
+  {
+    "text": "持枪",
+    "count": 1,
+    "offset": 252443
+  },
+  {
+    "text": "回合",
+    "count": 1,
+    "offset": 252469
+  },
+  {
+    "text": "最大",
+    "count": 1,
+    "offset": 256605
+  },
+  {
+    "text": "对比",
+    "count": 1,
+    "offset": 261223
+  },
+  {
+    "text": "今天",
+    "count": 1,
+    "offset": 367004
+  },
+  {
+    "text": "昨天",
+    "count": 1,
+    "offset": 367032
+  },
+  {
+    "text": "全部",
+    "count": 1,
+    "offset": 368123
+  },
+  {
+    "text": "批量",
+    "count": 1,
+    "offset": 374200
+  },
+  {
+    "text": "打开",
+    "count": 1,
+    "offset": 374296
+  },
+  {
+    "text": "来源",
+    "count": 1,
+    "offset": 379047
+  },
+  {
+    "text": "定锚",
+    "count": 1,
+    "offset": 379639
+  },
+  {
+    "text": "对局",
+    "count": 1,
+    "offset": 379659
+  },
+  {
+    "text": "接受",
+    "count": 1,
+    "offset": 379689
+  },
+  {
+    "text": "等待",
+    "count": 1,
+    "offset": 380219
+  },
+  {
+    "text": "探测",
+    "count": 1,
+    "offset": 383095
+  },
+  {
+    "text": "基础",
+    "count": 1,
+    "offset": 435171
+  },
+  {
+    "text": "近期",
+    "count": 1,
+    "offset": 435183
+  },
+  {
+    "text": "战斗",
+    "count": 1,
+    "offset": 435207
+  },
+  {
+    "text": "雷达",
+    "count": 1,
+    "offset": 435218
+  },
+  {
+    "text": "其他",
+    "count": 1,
+    "offset": 435229
+  },
+  {
+    "text": "趋势",
+    "count": 1,
+    "offset": 440219
+  },
+  {
+    "text": "多杀",
+    "count": 1,
+    "offset": 440468
+  },
+  {
+    "text": "段位",
+    "count": 1,
+    "offset": 445283
+  },
+  {
+    "text": "排名",
+    "count": 1,
+    "offset": 445426
+  },
+  {
+    "text": "连胜",
+    "count": 1,
+    "offset": 446697
+  },
+  {
+    "text": "强度",
+    "count": 1,
+    "offset": 461650
+  },
+  {
+    "text": "组排",
+    "count": 1,
+    "offset": 461920
+  },
+  {
+    "text": "持平",
+    "count": 1,
+    "offset": 461979
+  },
+  {
+    "text": "优于",
+    "count": 1,
+    "offset": 462716
+  },
+  {
+    "text": "弱于",
+    "count": 1,
+    "offset": 462721
+  },
+  {
+    "text": "覆盖",
+    "count": 1,
+    "offset": 464955
+  },
+  {
+    "text": "收敛",
+    "count": 1,
+    "offset": 465111
+  },
+  {
+    "text": "影响",
+    "count": 1,
+    "offset": 467620
+  },
+  {
+    "text": "费用",
+    "count": 1,
+    "offset": 473171
+  },
+  {
+    "text": "停止",
+    "count": 1,
+    "offset": 473916
+  },
+  {
+    "text": "同队",
+    "count": 1,
+    "offset": 489890
+  },
+  {
+    "text": "经验",
+    "count": 1,
+    "offset": 495762
+  },
+  {
+    "text": "少玩",
+    "count": 1,
+    "offset": 495792
+  },
+  {
+    "text": "暂无",
+    "count": 1,
+    "offset": 495806
+  },
+  {
+    "text": "强图",
+    "count": 1,
+    "offset": 496226
+  },
+  {
+    "text": "关注",
+    "count": 1,
+    "offset": 516910
+  },
+  {
+    "text": "还差",
+    "count": 1,
+    "offset": 521517
+  },
+  {
+    "text": "胜利",
+    "count": 1,
+    "offset": 527479
+  },
+  {
+    "text": "二杀",
+    "count": 1,
+    "offset": 528914
+  },
+  {
+    "text": "三杀",
+    "count": 1,
+    "offset": 528940
+  },
+  {
+    "text": "四杀",
+    "count": 1,
+    "offset": 528966
+  },
+  {
+    "text": "五杀",
+    "count": 1,
+    "offset": 528992
+  },
+  {
+    "text": "上移",
+    "count": 1,
+    "offset": 539886
+  },
+  {
+    "text": "下移",
+    "count": 1,
+    "offset": 540165
+  },
+  {
+    "text": "完成",
+    "count": 1,
+    "offset": 540473
+  },
+  {
+    "text": "平均",
+    "count": 1,
+    "offset": 576797
+  },
+  {
+    "text": "两队",
+    "count": 1,
+    "offset": 587025
+  },
+  {
+    "text": "均值",
+    "count": 1,
+    "offset": 587043
+  },
+  {
+    "text": "版本",
+    "count": 1,
+    "offset": 604788
+  },
+  {
+    "text": "作者",
+    "count": 1,
+    "offset": 605651
+  },
+  {
+    "text": "错误",
+    "count": 1,
+    "offset": 612394
+  },
+  {
+    "text": "推荐",
+    "count": 1,
+    "offset": 620544
+  },
+  {
+    "text": "模型",
+    "count": 1,
+    "offset": 622670
+  },
+  {
+    "text": "收起",
+    "count": 1,
+    "offset": 673660
+  },
+  {
+    "text": "展开",
+    "count": 1,
+    "offset": 673682
+  },
+  {
+    "text": "天前",
+    "count": 1,
+    "offset": 675553
+  },
+  {
+    "text": "年前",
+    "count": 1,
+    "offset": 675814
+  },
+  {
+    "text": "态度",
+    "count": 1,
+    "offset": 676321
+  },
+  {
+    "text": "表情",
+    "count": 1,
+    "offset": 676381
+  },
+  {
+    "text": "对战",
+    "count": 1,
+    "offset": 676443
+  },
+  {
+    "text": "插入",
+    "count": 1,
+    "offset": 679591
+  },
+  {
+    "text": "预览",
+    "count": 1,
+    "offset": 681080
+  },
+  {
+    "text": "保存",
+    "count": 1,
+    "offset": 693788
+  },
+  {
+    "text": "匿名",
+    "count": 1,
+    "offset": 694921
+  },
+  {
+    "text": "编辑",
+    "count": 1,
+    "offset": 696892
+  },
+  {
+    "text": "点赞",
+    "count": 1,
+    "offset": 697339
+  },
+  {
+    "text": "发送",
+    "count": 1,
+    "offset": 701408
+  },
+  {
+    "text": "显示",
+    "count": 1,
+    "offset": 738255
+  },
+  {
+    "text": "分页",
+    "count": 1,
+    "offset": 738562
+  },
+  {
+    "text": "未知",
+    "count": 1,
+    "offset": 760322
+  },
+  {
+    "text": "动画",
+    "count": 1,
+    "offset": 760488
+  }
+]

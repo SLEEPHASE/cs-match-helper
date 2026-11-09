@@ -1,0 +1,30 @@
+[
+  {
+    "name": "en",
+    "dest": "C:\\Users\\FoxOS_User\\Downloads\\gggggggggggggg\\cs-match-helper-re\\tools\\i18n\\en.json",
+    "namespace": [
+      "common",
+      "settings",
+      "aiErrors",
+      "aiUi",
+      "platform",
+      "p5e"
+    ],
+    "leaves": 111,
+    "size": 4465
+  },
+  {
+    "name": "zh-CN",
+    "dest": "C:\\Users\\FoxOS_User\\Downloads\\gggggggggggggg\\cs-match-helper-re\\tools\\i18n\\zh-CN.json",
+    "namespace": [
+      "common",
+      "settings",
+      "aiErrors",
+      "aiUi",
+      "platform",
+      "p5e"
+    ],
+    "leaves": 111,
+    "size": 2727
+  }
+]
